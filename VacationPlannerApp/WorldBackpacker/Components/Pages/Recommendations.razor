@@ -1,0 +1,143 @@
+﻿@page "/recommendations"
+@inject NavigationManager Navigation
+@inject RecommendationService RecommendationService
+@inject IJSRuntime JSRuntime
+@inject ILogger<Home> Logger
+@rendermode InteractiveServer
+
+
+<h3><center>Recommended destinations</center></h3>
+<div id="myMap" style="width: 100%; height: 750px; margin-bottom: 20px;"></div>
+@if (recommendedDestinations == null || !recommendedDestinations.Any())
+{
+    <p>No recommendations found. Please go back and try again.</p>
+}
+else
+{
+
+    <h4>Recommended destinations for you:</h4>
+    <ul>
+        @foreach (Recommendation destination in recommendedDestinations)
+        {
+            @if (@destination.ImageUrl != null && @destination.ImageUrl != "" && @destination.City != "Kabul")
+            {
+                <img src=@destination.ImageUrl style="width:70px;height:42px;" />
+            }
+            @if (@destination.ImageUrl == null || @destination.ImageUrl == "" || @destination.City=="Kabul")
+            {
+                <img src="no_flag.png" style="width:100px;height:80px;" />
+            }
+            <li><strong>Country:</strong> @destination.Country, <strong>City:</strong> @destination.City</li>
+
+            string region = destination.Continent switch
+            {
+                Continent.OceaniaAustralia => "Australia and Oceania",
+                Continent.NorthAmerica or Continent.SouthAmerica => "America",
+                _ => destination.Continent.ToString()
+            };
+
+            <li><strong>Region:</strong> @region, <strong>Subregion:</strong> @destination.Subregion</li>
+
+            string budget = destination.CostSummary switch
+            {
+                CostSummary.VeryLow => "Very Low",
+                CostSummary.VeryHigh => "Very High",
+                _ => destination.CostSummary.ToString()
+            };
+
+
+            <li><strong>Cost:</strong> @budget </li>
+            <li>
+                <strong>Average temperature during your stay:</strong> @destination.Temperature°C
+            </li>
+            <li>
+                <strong>Activities:</strong>
+                <ul>
+                    @if (destination.Skiing)
+                    {
+                        <li>Skiing</li>
+                    }
+                    @if (destination.Sightseeing)
+                    {
+                        <li>Sightseeing</li>
+                    }
+                    @if (destination.Beach)
+                    {
+                        <li>Beach</li>
+                    }
+                    @if (destination.Lakes)
+                    {
+                        <li>Lakes</li>
+                    }
+                    @if (destination.Kayaking)
+                    {
+                        <li>Kayaking</li>
+                    }
+                    @if (destination.Sailing)
+                    {
+                        <li>Sailing</li>
+                    }
+                    @if (destination.Ocean)
+                    {
+                        <li>Ocean</li>
+                    }
+                    @if (destination.Sea)
+                    {
+                        <li>Sea</li>
+                    }
+                    @if (destination.Hiking)
+                    {
+                        <li>Hiking</li>
+                    }
+                    @if (destination.Nature)
+                    {
+                        <li>Nature</li>
+                    }
+                    @if (!destination.Skiing && !destination.Sightseeing && !destination.Beach && !destination.Lakes && !destination.Kayaking && !destination.Sailing && !destination.Ocean && !destination.Sea && !destination.Hiking && !destination.Nature)
+                    {
+                        <li>Sorry, there are no activities that we know of in this city, but you can definitely think of somthing fun to do!</li>
+                    }
+                    <p></p>
+                    <p></p>
+                </ul>
+            </li>
+        }
+
+    </ul>
+}
+
+@code {
+    private List<Recommendation>? recommendedDestinations;
+
+    protected override void OnInitialized()
+    {
+        recommendedDestinations = RecommendationService.Recommendations;
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+
+
+        if (firstRender)
+        {
+
+            try
+            {
+                Logger.LogInformation($"Locations available, calling JS to render map:{recommendedDestinations}");
+                var locations = new List<object>();
+                foreach (Recommendation destination in recommendedDestinations)
+                {
+                    locations.Add(new { Latitude = destination.Latitude, Longitude = destination.Longitude});
+                }
+                Logger.LogInformation($"dd{locations[0]}");
+                await JSRuntime.InvokeVoidAsync("InitMap", locations);
+                StateHasChanged();
+             
+            }
+            catch (Exception ex)
+            {
+                Logger.LogError($"Error in OnAfterRenderAsync: {ex.Message}");
+            }
+        }
+    }
+}
