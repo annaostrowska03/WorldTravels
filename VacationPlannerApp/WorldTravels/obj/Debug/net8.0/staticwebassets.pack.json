@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WorldBackpacker.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WorldBackpacker.9n8x2a9jyo.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\background.svg",
+      "PackagePath": "staticwebassets\\background.svg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\background2.svg",
+      "PackagePath": "staticwebassets\\background2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\dest_icon.png",
+      "PackagePath": "staticwebassets\\dest_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\destination_icon.svg",
+      "PackagePath": "staticwebassets\\destination_icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\destination_icon_black.svg",
+      "PackagePath": "staticwebassets\\destination_icon_black.svg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\js\\maps.js",
+      "PackagePath": "staticwebassets\\js\\maps.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\no_flag.png",
+      "PackagePath": "staticwebassets\\no_flag.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WorldBackpacker.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WorldBackpacker.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WorldBackpacker.props",
+      "PackagePath": "build\\WorldBackpacker.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WorldBackpacker.props",
+      "PackagePath": "buildMultiTargeting\\WorldBackpacker.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WorldBackpacker.props",
+      "PackagePath": "buildTransitive\\WorldBackpacker.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

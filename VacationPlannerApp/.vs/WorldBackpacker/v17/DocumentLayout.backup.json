@@ -1,113 +1,146 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\",
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\vacationplanner\\worldbackpacker\\datacreation\\worldbackpacker\\worldbackpacker\\components\\pages\\recommendations.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\components\\pages\\recommendations.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\vacationplanner\\worldbackpacker\\datacreation\\worldbackpacker\\worldbackpacker\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\vacationplanner\\worldbackpacker\\datacreation\\worldbackpacker\\worldbackpacker\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\vacationplanner\\worldbackpacker\\datacreation\\worldbackpacker\\worldbackpacker\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\vacationplanner\\worldbackpacker\\datacreation\\worldbackpacker\\worldbackpacker\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\vacationplanner\\worldbackpacker\\datacreation\\worldbackpacker\\worldbackpacker\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\vacationplanner\\worldbackpacker\\datacreation\\worldbackpacker\\worldbackpacker\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\vacationplanner\\worldbackpacker\\datacreation\\worldbackpacker\\worldbackpacker\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\vacationplanner\\worldbackpacker\\datacreation\\worldbackpacker\\worldbackpacker\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\vacationplanner\\worldbackpacker\\datacreation\\worldbackpacker\\worldbackpacker\\wwwroot\\js\\maps.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\wwwroot\\js\\maps.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\vacationplanner\\worldbackpacker\\datacreation\\worldbackpacker\\worldbackpacker\\components\\pages\\destinations.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\app_finalfinal\\worldbackpacker\\vacationplannerapp\\worldbackpacker\\components\\pages\\destinations.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\components\\pages\\destinations.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\vacationplanner\\worldbackpacker\\datacreation\\worldbackpacker\\worldbackpacker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\app_finalfinal\\worldbackpacker\\vacationplannerapp\\worldbackpacker\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\vacationplanner\\worldbackpacker\\datacreation\\worldbackpacker\\worldbackpacker\\wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\vacationplanner\\worldbackpacker\\datacreation\\worldbackpacker\\worldbackpacker\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\vacationplanner\\worldbackpacker\\datacreation\\worldbackpacker\\worldbackpacker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\vacationplanner\\worldbackpacker\\datacreation\\worldbackpacker\\worldbackpacker\\services\\getrecommendedcitiesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\app_finalfinal\\worldbackpacker\\vacationplannerapp\\worldbackpacker\\services\\getrecommendedcitiesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\services\\getrecommendedcitiesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\vacationplanner\\worldbackpacker\\datacreation\\worldbackpacker\\worldbackpacker\\data\\recommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\data\\recommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\AppData\\Local\\SourceServer\\09965fcdc9157892eaba8f2a14f86f389b9dc69708d2b2018469424ca9c19baf\\VacationPlannerApp\\WorldBackpacker\\Components\\Pages\\Home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\vacationplanner\\worldbackpacker\\datacreation\\worldbackpacker\\worldbackpacker\\services\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\app_finalfinal\\worldbackpacker\\vacationplannerapp\\worldbackpacker\\components\\pages\\recommendations.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\components\\pages\\recommendations.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\app_finalfinal\\worldbackpacker\\vacationplannerapp\\worldbackpacker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\app_finalfinal\\worldbackpacker\\vacationplannerapp\\worldbackpacker\\services\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\services\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\vacationplanner\\worldbackpacker\\datacreation\\worldbackpacker\\worldbackpacker\\data\\preference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\data\\preference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\app_finalfinal\\worldbackpacker\\vacationplannerapp\\worldbackpacker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\vacationplanner\\worldbackpacker\\datacreation\\worldbackpacker\\worldbackpacker\\services\\getpreferenceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\services\\getpreferenceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\app_finalfinal\\worldbackpacker\\vacationplannerapp\\worldbackpacker\\services\\recommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\services\\recommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\vacationplanner\\worldbackpacker\\datacreation\\worldbackpacker\\worldbackpacker\\data\\continent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\data\\continent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\app_finalfinal\\worldbackpacker\\vacationplannerapp\\worldbackpacker\\wwwroot\\js\\maps.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\wwwroot\\js\\maps.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\vacationplanner\\worldbackpacker\\datacreation\\worldbackpacker\\worldbackpacker\\worldbackpacker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\worldbackpacker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\app_finalfinal\\worldbackpacker\\vacationplannerapp\\worldbackpacker\\components\\layout\\recomlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\components\\layout\\recomlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\vacationplanner\\worldbackpacker\\datacreation\\worldbackpacker\\worldbackpacker\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\app_finalfinal\\worldbackpacker\\vacationplannerapp\\worldbackpacker\\components\\layout\\recomlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\components\\layout\\recomlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\app_finalfinal\\worldbackpacker\\vacationplannerapp\\worldbackpacker\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\app_finalfinal\\worldbackpacker\\vacationplannerapp\\worldbackpacker\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\app_finalfinal\\worldbackpacker\\vacationplannerapp\\worldbackpacker\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\app_finalfinal\\worldbackpacker\\vacationplannerapp\\worldbackpacker\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\app_finalfinal\\worldbackpacker\\vacationplannerapp\\worldbackpacker\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\app_finalfinal\\worldbackpacker\\vacationplannerapp\\worldbackpacker\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\app_finalfinal\\worldbackpacker\\vacationplannerapp\\worldbackpacker\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\app_finalfinal\\worldbackpacker\\vacationplannerapp\\worldbackpacker\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\vacationplanner\\worldbackpacker\\datacreation\\worldbackpacker\\worldbackpacker\\data\\choice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\data\\choice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\app_finalfinal\\worldbackpacker\\vacationplannerapp\\worldbackpacker\\wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\vacationplanner\\worldbackpacker\\datacreation\\worldbackpacker\\worldbackpacker\\data\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\data\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\vacationplanner\\worldbackpacker\\datacreation\\worldbackpacker\\worldbackpacker\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\app_finalfinal\\worldbackpacker\\vacationplannerapp\\worldbackpacker\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\log.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\app_finalfinal\\worldbackpacker\\vacationplannerapp\\worldbackpacker\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\app_finalfinal\\worldbackpacker\\vacationplannerapp\\worldbackpacker\\services\\getpreferenceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\services\\getpreferenceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\app_finalfinal\\worldbackpacker\\vacationplannerapp\\worldbackpacker\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\app_finalfinal\\worldbackpacker\\vacationplannerapp\\worldbackpacker\\wwwroot\\destination_icon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\wwwroot\\destination_icon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\app_finalfinal\\worldbackpacker\\vacationplannerapp\\worldbackpacker\\data\\recommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\data\\recommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\app_finalfinal\\worldbackpacker\\vacationplannerapp\\worldbackpacker\\data\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\data\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\app_finalfinal\\worldbackpacker\\vacationplannerapp\\worldbackpacker\\data\\preference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\data\\preference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\app_finalfinal\\worldbackpacker\\vacationplannerapp\\worldbackpacker\\data\\costsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\data\\costsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\app_finalfinal\\worldbackpacker\\vacationplannerapp\\worldbackpacker\\data\\continent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\data\\continent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\app_finalfinal\\worldbackpacker\\vacationplannerapp\\worldbackpacker\\data\\choice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\data\\choice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\CreateData\\CreateData\\TemperatureService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\CreateData\\CreateData\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|c:\\users\\dell\\desktop\\sem5\\app_finalfinal\\worldbackpacker\\vacationplannerapp\\worldbackpacker\\worldbackpacker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{25C5A1EE-7781-423E-BC19-5A185B93FA38}|WorldBackpacker\\WorldBackpacker.csproj|solutionrelative:worldbackpacker\\worldbackpacker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\log.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WorldBackpacker\\log.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -118,7 +151,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,128 +159,193 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Dell\\AppData\\Local\\SourceServer\\09965fcdc9157892eaba8f2a14f86f389b9dc69708d2b2018469424ca9c19baf\\VacationPlannerApp\\WorldBackpacker\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\09965fcdc9157892eaba8f2a14f86f389b9dc69708d2b2018469424ca9c19baf\\VacationPlannerApp\\WorldBackpacker\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Dell\\AppData\\Local\\SourceServer\\09965fcdc9157892eaba8f2a14f86f389b9dc69708d2b2018469424ca9c19baf\\VacationPlannerApp\\WorldBackpacker\\Components\\Pages\\Home.razor[Tylko do odczytu]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\09965fcdc9157892eaba8f2a14f86f389b9dc69708d2b2018469424ca9c19baf\\VacationPlannerApp\\WorldBackpacker\\Components\\Pages\\Home.razor[Tylko do odczytu]",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAhwBgAAAAIAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T11:51:29.261Z",
+              "EditorCaption": "[Tylko do odczytu]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LocationService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Services\\LocationService.cs",
+              "RelativeDocumentMoniker": "WorldBackpacker\\Services\\LocationService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Services\\LocationService.cs",
+              "RelativeToolTip": "WorldBackpacker\\Services\\LocationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T11:40:56.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Recommendations.razor",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Components\\Pages\\Recommendations.razor",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Components\\Pages\\Recommendations.razor",
               "RelativeDocumentMoniker": "WorldBackpacker\\Components\\Pages\\Recommendations.razor",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Components\\Pages\\Recommendations.razor",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Components\\Pages\\Recommendations.razor",
               "RelativeToolTip": "WorldBackpacker\\Components\\Pages\\Recommendations.razor",
-              "ViewState": "AgIAABwAAAAAAAAAAAAwwBUAAABkAAAAAAAAAA==",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAwwIkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-12T02:08:31.471Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Components\\App.razor",
-              "RelativeDocumentMoniker": "WorldBackpacker\\Components\\App.razor",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Components\\App.razor",
-              "RelativeToolTip": "WorldBackpacker\\Components\\App.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-08T08:11:09.541Z",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Program.cs",
+              "RelativeDocumentMoniker": "WorldBackpacker\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Program.cs",
+              "RelativeToolTip": "WorldBackpacker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T00:52:53.789Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Routes.razor",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Components\\Routes.razor",
-              "RelativeDocumentMoniker": "WorldBackpacker\\Components\\Routes.razor",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Components\\Routes.razor",
-              "RelativeToolTip": "WorldBackpacker\\Components\\Routes.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Destinations.razor",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Components\\Pages\\Destinations.razor",
+              "RelativeDocumentMoniker": "WorldBackpacker\\Components\\Pages\\Destinations.razor",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Components\\Pages\\Destinations.razor*",
+              "RelativeToolTip": "WorldBackpacker\\Components\\Pages\\Destinations.razor*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T07:58:48.805Z",
+              "WhenOpened": "2025-01-08T08:05:04.638Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Components\\Pages\\Home.razor",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "WorldBackpacker\\Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "WorldBackpacker\\Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAsAAAAAAAAAAAArwDIAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-11T00:54:49.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\appsettings.json",
-              "RelativeDocumentMoniker": "WorldBackpacker\\appsettings.json",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\appsettings.json",
-              "RelativeToolTip": "WorldBackpacker\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-12T02:16:44.593Z",
+              "DocumentIndex": 9,
+              "Title": "maps.js",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\wwwroot\\js\\maps.js",
+              "RelativeDocumentMoniker": "WorldBackpacker\\wwwroot\\js\\maps.js",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\wwwroot\\js\\maps.js",
+              "RelativeToolTip": "WorldBackpacker\\wwwroot\\js\\maps.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-26T13:42:49.422Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "WorldBackpacker\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "WorldBackpacker\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T08:18:50.43Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "NavMenu.razor.css",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Components\\Layout\\NavMenu.razor.css",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Components\\Layout\\NavMenu.razor.css",
               "RelativeDocumentMoniker": "WorldBackpacker\\Components\\Layout\\NavMenu.razor.css",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Components\\Layout\\NavMenu.razor.css",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Components\\Layout\\NavMenu.razor.css",
               "RelativeToolTip": "WorldBackpacker\\Components\\Layout\\NavMenu.razor.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-01-12T02:14:05.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RecommendationService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Services\\RecommendationService.cs",
+              "RelativeDocumentMoniker": "WorldBackpacker\\Services\\RecommendationService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Services\\RecommendationService.cs",
+              "RelativeToolTip": "WorldBackpacker\\Services\\RecommendationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T01:27:22.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetRecommendedCitiesService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Services\\GetRecommendedCitiesService.cs",
+              "RelativeDocumentMoniker": "WorldBackpacker\\Services\\GetRecommendedCitiesService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Services\\GetRecommendedCitiesService.cs",
+              "RelativeToolTip": "WorldBackpacker\\Services\\GetRecommendedCitiesService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIAwwCYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T02:51:08.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Components\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "WorldBackpacker\\Components\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Components\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "WorldBackpacker\\Components\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T08:38:13.67Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\appsettings.json",
+              "RelativeDocumentMoniker": "WorldBackpacker\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\appsettings.json",
+              "RelativeToolTip": "WorldBackpacker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-12T02:16:44.593Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainLayout.razor.css",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Components\\Layout\\MainLayout.razor.css",
-              "RelativeDocumentMoniker": "WorldBackpacker\\Components\\Layout\\MainLayout.razor.css",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Components\\Layout\\MainLayout.razor.css",
-              "RelativeToolTip": "WorldBackpacker\\Components\\Layout\\MainLayout.razor.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "RecomLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Components\\Layout\\RecomLayout.razor.css",
+              "RelativeDocumentMoniker": "WorldBackpacker\\Components\\Layout\\RecomLayout.razor.css",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Components\\Layout\\RecomLayout.razor.css",
+              "RelativeToolTip": "WorldBackpacker\\Components\\Layout\\RecomLayout.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-01-08T08:11:01.648Z",
+              "WhenOpened": "2025-01-20T05:48:18.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
+              "Title": "RecomLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Components\\Layout\\RecomLayout.razor",
+              "RelativeDocumentMoniker": "WorldBackpacker\\Components\\Layout\\RecomLayout.razor",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Components\\Layout\\RecomLayout.razor",
+              "RelativeToolTip": "WorldBackpacker\\Components\\Layout\\RecomLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T05:47:00.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WorldBackpacker\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WorldBackpacker\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-11T00:44:21.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Components\\_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "WorldBackpacker\\Components\\_Imports.razor",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Components\\_Imports.razor",
               "RelativeToolTip": "WorldBackpacker\\Components\\_Imports.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -256,154 +354,255 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "maps.js",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\wwwroot\\js\\maps.js",
-              "RelativeDocumentMoniker": "WorldBackpacker\\wwwroot\\js\\maps.js",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\wwwroot\\js\\maps.js",
-              "RelativeToolTip": "WorldBackpacker\\wwwroot\\js\\maps.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-26T13:42:49.422Z",
+              "DocumentIndex": 14,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "WorldBackpacker\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "WorldBackpacker\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T04:39:56.237Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Program.cs",
-              "RelativeDocumentMoniker": "WorldBackpacker\\Program.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Program.cs",
-              "RelativeToolTip": "WorldBackpacker\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T00:52:53.789Z",
+              "DocumentIndex": 17,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "WorldBackpacker\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Components\\Routes.razor",
+              "RelativeToolTip": "WorldBackpacker\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T07:58:48.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Components\\App.razor",
+              "RelativeDocumentMoniker": "WorldBackpacker\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Components\\App.razor",
+              "RelativeToolTip": "WorldBackpacker\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T08:11:09.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "WorldBackpacker\\Components\\Layout\\MainLayout.razor.css",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeToolTip": "WorldBackpacker\\Components\\Layout\\MainLayout.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-08T08:11:01.648Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "WorldBackpacker\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "WorldBackpacker\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T08:38:13.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "bootstrap.min.css",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\wwwroot\\bootstrap\\bootstrap.min.css",
               "RelativeDocumentMoniker": "WorldBackpacker\\wwwroot\\bootstrap\\bootstrap.min.css",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\wwwroot\\bootstrap\\bootstrap.min.css",
               "RelativeToolTip": "WorldBackpacker\\wwwroot\\bootstrap\\bootstrap.min.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAACABAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAADH+gAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-01-08T08:13:03.845Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WorldBackpacker\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\appsettings.Development.json",
+              "RelativeToolTip": "WorldBackpacker\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T07:58:42.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "app.css",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\wwwroot\\app.css",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\wwwroot\\app.css",
               "RelativeDocumentMoniker": "WorldBackpacker\\wwwroot\\app.css",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\wwwroot\\app.css",
               "RelativeToolTip": "WorldBackpacker\\wwwroot\\app.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-12-26T07:59:44.59Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Destinations.razor",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Components\\Pages\\Destinations.razor",
-              "RelativeDocumentMoniker": "WorldBackpacker\\Components\\Pages\\Destinations.razor",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Components\\Pages\\Destinations.razor",
-              "RelativeToolTip": "WorldBackpacker\\Components\\Pages\\Destinations.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-08T08:05:04.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "GetPreferenceService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Services\\GetPreferenceService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Services\\GetPreferenceService.cs",
               "RelativeDocumentMoniker": "WorldBackpacker\\Services\\GetPreferenceService.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Services\\GetPreferenceService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Services\\GetPreferenceService.cs",
               "RelativeToolTip": "WorldBackpacker\\Services\\GetPreferenceService.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAMwDAAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T00:30:44.526Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "GetRecommendedCitiesService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Services\\GetRecommendedCitiesService.cs",
-              "RelativeDocumentMoniker": "WorldBackpacker\\Services\\GetRecommendedCitiesService.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Services\\GetRecommendedCitiesService.cs",
-              "RelativeToolTip": "WorldBackpacker\\Services\\GetRecommendedCitiesService.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAArwA4BAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T02:51:08.616Z",
+              "DocumentIndex": 24,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "WorldBackpacker\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "WorldBackpacker\\Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T01:31:49.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Preference.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Data\\Preference.cs",
-              "RelativeDocumentMoniker": "WorldBackpacker\\Data\\Preference.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Data\\Preference.cs",
-              "RelativeToolTip": "WorldBackpacker\\Data\\Preference.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBIAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T00:05:57.252Z",
+              "DocumentIndex": 25,
+              "Title": "destination_icon.svg",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\wwwroot\\destination_icon.svg",
+              "RelativeDocumentMoniker": "WorldBackpacker\\wwwroot\\destination_icon.svg",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\wwwroot\\destination_icon.svg",
+              "RelativeToolTip": "WorldBackpacker\\wwwroot\\destination_icon.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAACakwIAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALoSURBVDhPXZNPaBx1HMU/39/vN7/5s2nd1iaItLqxiFTUbqJnNXjwmO2lh4AYb4LUVvCe9OItkN7Ek6BXwXjxGNGLaCFbe4hYxKWpepBmJjszmZndmfl5WK3Bd/zy3uP7eDzh/9j98XWjZNAiq6qlpxzoRoZqIsNmws3yytLoEdc5J/8J97pKtxtO3A0BHCAzMboWzBS8SmEr2a6K9mbyzlICMDPY3esacbutavvITAxwVhkWrUVPhf3DEm8i2FLwj9WQtF4ZfbCUKAC/ZUNa15dWECeIg80LT3J7\u002BRJvLzzOtacWuLvyPGfEzL6ppX8KfwNAgq/3eiLut9aAU44W2Hr2PKvnurx5\u002Bx4P0immhu9efY4vfkn47KeH\u002BMeKMFfYihVlJ2zqepZTTYX1hXO8f36Bd\u002B/c54\u002B4xpYKWyiejizHRYtXCrYS/FIIchkoOzGXzVRhJoI3UVy7MM/do4IfDgr8XONnmmXb4dNhzFd3xvilIigUfiFEuVlVpqLvlQp7rJifWF46HfL97wXB2BClhiA1/Hq/5uNvDwlyTZArglwIc0WUqp6yhcbPNcHY4xWvA0CRQpR4BIlHlBrC1BCmmiDXhLkmzDRhpogyhQrGZhQlHlHi8fDBrNWzzvDvLYz/McgML54OicaaTqqZG2vCTIYqir2dMLZ0Yks8EtLCcWneJ4o9wvEsQnhk6FnLC48FdBJNJ9bMHWk6qRnq3vKHpZ956/bYYHNDXQmD10LMVLG/12ArzcsXfd672mXn8wwvEeYSTSfTmKlcEYA31v7aVpW\u002BrlpBWuGtqwFraz557shyx\u002BGfDZ9spWQHNVEuBCWYur310f4TNwRgMIi7Lje7qpE\u002BAM5xak64\u002BIzi4N6UOmkJJ46gcnhTh3ZuWFTZyvZoMXk0pkE/7vq\u002BvymNuq5waAembrHOYacOr23QtCiaW1WVbW6PFk\u002BM6QTW\u002B0VPl3rTNFzWru0bGrRqRso1O2i\u002B3Pr5zDcn\u002BX8DxwM8iOXXp7EAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-01-20T02:53:34.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "LocationService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Services\\LocationService.cs",
-              "RelativeDocumentMoniker": "WorldBackpacker\\Services\\LocationService.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Services\\LocationService.cs",
-              "RelativeToolTip": "WorldBackpacker\\Services\\LocationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAYAAAACAAAAAAAAAA==",
+              "DocumentIndex": 27,
+              "Title": "Weather.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Data\\Weather.cs",
+              "RelativeDocumentMoniker": "WorldBackpacker\\Data\\Weather.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Data\\Weather.cs",
+              "RelativeToolTip": "WorldBackpacker\\Data\\Weather.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T07:52:43.234Z",
+              "WhenOpened": "2025-01-11T15:38:49.518Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Recommendation.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Data\\Recommendation.cs",
-              "RelativeDocumentMoniker": "WorldBackpacker\\Data\\Recommendation.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Data\\Recommendation.cs",
-              "RelativeToolTip": "WorldBackpacker\\Data\\Recommendation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T00:07:32.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 30,
               "Title": "Continent.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Data\\Continent.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Data\\Continent.cs",
               "RelativeDocumentMoniker": "WorldBackpacker\\Data\\Continent.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Data\\Continent.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Data\\Continent.cs",
               "RelativeToolTip": "WorldBackpacker\\Data\\Continent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAC7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T02:41:18.848Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
+              "Title": "Recommendation.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Data\\Recommendation.cs",
+              "RelativeDocumentMoniker": "WorldBackpacker\\Data\\Recommendation.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Data\\Recommendation.cs",
+              "RelativeToolTip": "WorldBackpacker\\Data\\Recommendation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T00:07:32.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TemperatureService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\CreateData\\CreateData\\TemperatureService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\VacationPlanner\\WorldBackpacker\\DataCreation\\CreateData\\CreateData\\TemperatureService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\CreateData\\CreateData\\TemperatureService.cs",
+              "RelativeToolTip": "..\\..\\..\\VacationPlanner\\WorldBackpacker\\DataCreation\\CreateData\\CreateData\\TemperatureService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T18:33:12.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CostSummary.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Data\\CostSummary.cs",
+              "RelativeDocumentMoniker": "WorldBackpacker\\Data\\CostSummary.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Data\\CostSummary.cs",
+              "RelativeToolTip": "WorldBackpacker\\Data\\CostSummary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAACiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T01:02:57.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Preference.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Data\\Preference.cs",
+              "RelativeDocumentMoniker": "WorldBackpacker\\Data\\Preference.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Data\\Preference.cs",
+              "RelativeToolTip": "WorldBackpacker\\Data\\Preference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T00:05:57.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Choice.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Data\\Choice.cs",
+              "RelativeDocumentMoniker": "WorldBackpacker\\Data\\Choice.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\Data\\Choice.cs",
+              "RelativeToolTip": "WorldBackpacker\\Data\\Choice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T00:35:25.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\CreateData\\CreateData\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\VacationPlanner\\WorldBackpacker\\DataCreation\\CreateData\\CreateData\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\CreateData\\CreateData\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\VacationPlanner\\WorldBackpacker\\DataCreation\\CreateData\\CreateData\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T18:32:43.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "WorldBackpacker.csproj",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\WorldBackpacker.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\WorldBackpacker.csproj",
               "RelativeDocumentMoniker": "WorldBackpacker\\WorldBackpacker.csproj",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\WorldBackpacker.csproj",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\WorldBackpacker.csproj",
               "RelativeToolTip": "WorldBackpacker\\WorldBackpacker.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -412,61 +611,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "WorldBackpacker\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Properties\\launchSettings.json",
-              "RelativeToolTip": "WorldBackpacker\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-11T00:44:21.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Choice.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Data\\Choice.cs",
-              "RelativeDocumentMoniker": "WorldBackpacker\\Data\\Choice.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Data\\Choice.cs",
-              "RelativeToolTip": "WorldBackpacker\\Data\\Choice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T00:35:25.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Weather.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Data\\Weather.cs",
-              "RelativeDocumentMoniker": "WorldBackpacker\\Data\\Weather.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\Data\\Weather.cs",
-              "RelativeToolTip": "WorldBackpacker\\Data\\Weather.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T15:38:49.518Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "WorldBackpacker\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\appsettings.Development.json",
-              "RelativeToolTip": "WorldBackpacker\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-26T07:58:42.529Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 35,
               "Title": "log.txt",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\log.txt",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\log.txt",
               "RelativeDocumentMoniker": "WorldBackpacker\\log.txt",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\VacationPlanner\\WorldBackpacker\\DataCreation\\WorldBackpacker\\WorldBackpacker\\log.txt",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldBackpacker\\log.txt",
               "RelativeToolTip": "WorldBackpacker\\log.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",

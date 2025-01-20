@@ -1,0 +1,164 @@
+﻿@page "/destinations"
+@inject WorldBackpacker.Services.GetRecommendedCitiesService GetRecommendedCitiesService
+@inject WorldBackpacker.Services.GetPreferenceService GetPreferenceService
+@inject NavigationManager Navigation
+@inject RecommendationService RecommendationService
+@inject IConfiguration Configuration
+@rendermode InteractiveServer
+
+<PageTitle>Destinations</PageTitle>
+
+<h2><center>Find your ideal travel destination 🗺️</center></h2>
+<h5><center>Choose your preferences and discover ideal cities for you!</center></h5>
+@if (!string.IsNullOrEmpty(errorMessage))
+{
+    <div class="alert alert-danger">
+        @errorMessage
+    </div>
+}
+
+@if (isLoading)
+{
+    <div class="spinner-border text-primary" role="status">
+        <span class="sr-only"><h5></h5></span>
+        <span class="position-absolute top-50 start-50 translate-middle" style="font-size: 1.7rem;">🌐</span>
+    </div>
+    <h5>Please wait while we fetch your recommendations...</h5>
+}
+else
+{
+    <EditForm Model="@userChoice" OnValidSubmit="GetFilteredDestinations" FormName="Name" id="form">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+        <br />
+        <br />
+        <h5>Choose your budget 💵</h5>
+        <div class="form-group">
+            <select id="budget" @bind="userChoice.Budget" class="form-control">
+                <option value="">Select Budget</option>
+                <option value=1>Very Low</option>
+                <option value=2>Low</option>
+                <option value=3>Moderate</option>
+                <option value=4>High</option>
+                <option value=5>Very High</option>
+            </select>
+        </div>
+
+        <h5>Start date of your trip 📅</h5>
+        <div class="form-group">
+            <InputDate id="startDate" @bind-Value="userChoice.StartDate" class="form-control" />
+        </div>
+
+        <h5>End date of your trip 📅</h5>
+        <div class="form-group">
+            <InputDate id="endDate" @bind-Value="userChoice.EndDate" class="form-control" />
+        </div>
+
+        <!-- Activity Checkboxes -->
+        <h5>Select preferred activities and surroundings 🏄</h5>
+        @foreach (var activity in new[] { "Skiing", "Sightseeing", "Beach", "Lakes", "Kayaking", "Sailing", "Ocean", "Sea", "Hiking", "Nature" })
+        {
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" id="@activity" value="@activity" @onchange="(e) => UpdateList(userChoice.Activities, activity, (bool)e.Value)" />
+                <label class="form-check-label" for="@activity">@activity</label>
+            </div>
+        }
+
+        <!-- Continent Selection -->
+        <h5>Select region 🌐</h5>
+        @foreach (var continent in new[] { "Asia", "Europe", "Africa", "Northern America", "Caribbean", "South America", "Oceania and Australia" })
+        {
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" id="@continent" value="@continent" @onchange="(e) => UpdateList(userChoice.Continents, continent, (bool)e.Value)" />
+                <label class="form-check-label" for="@continent">@continent</label>
+            </div>
+        }
+
+        <!-- Weather Preferences -->
+        <h5>Select weather preferences 🌤️</h5>
+        @foreach (var weather in new[] { "Very Hot (>32°C)", "Hot (23°C-32°C)", "Warm (15°C-23°C)", "Cool (10°C-15°C)", "Cold (0°C-10°C)", "Freezing (-10°C - 0°C)", "Super Freezing (<-10°C)" })
+        {
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" id="@weather" value="@weather" @onchange="(e) => UpdateList(userChoice.Weather, weather, (bool)e.Value)" />
+                <label class="form-check-label" for="@weather">@weather</label>
+            </div>
+        }
+
+        <button type="submit" class="btn btn-primary" id="submit">Get recommendations</button>
+    </EditForm>
+}
+
+@code {
+    private string? errorMessage; // Error message to display
+    private bool isLoading = false; // Loading state flag
+    private Choice userChoice = new Choice(); // User choice object
+    private List<Recommendation>? recommendedDestinations; // List of recommended destinations
+    private string connectionString; // Connection string to the database
+
+    protected override void OnInitialized() // Initialize the page
+    {
+        userChoice.StartDate = DateTime.Now.AddDays(7);
+        userChoice.EndDate = DateTime.Now.AddDays(14);
+        userChoice.Budget = 5;
+        connectionString = Configuration.GetConnectionString("VacationCities");
+    }
+
+    private async Task GetFilteredDestinations()
+    {
+        isLoading = true; // Set loading flag to true
+        try
+        {
+            if (userChoice.EndDate < userChoice.StartDate)
+            {
+                errorMessage = "Do you want to finish your trip before it starts? 🤯 Please make sure that your End Date is later than Start Date.";
+                recommendedDestinations = null;
+                isLoading = false;
+                return;
+            }
+
+            if (userChoice.Budget == null)
+            {
+                errorMessage = "Please enter your budget. You can choose 'Very High' if you want to see all budget options. 😊";
+                recommendedDestinations = null;
+                isLoading = false;
+                return;
+            }
+
+            errorMessage = string.Empty;
+
+            var preference = GetPreferenceService.GetPreferences(userChoice);
+            GetRecommendedCitiesService getRecommendedCitiesService = new GetRecommendedCitiesService(connectionString: connectionString);
+            recommendedDestinations = await getRecommendedCitiesService.GetRecommendations(preference: preference);
+
+            RecommendationService.Recommendations = recommendedDestinations;
+            Navigation.NavigateTo("/recommendations"); // Navigate to the recommendations page
+        }
+        catch (Exception ex)
+        {
+            errorMessage = $"Error fetching destinations: {ex.Message}";
+            Console.WriteLine(errorMessage);
+        }
+        finally
+        {
+            isLoading = false; // Reset loading flag
+        }
+    }
+
+    private void UpdateList(List<string> targetList, string option, bool isChecked)
+    {
+        if (isChecked)
+        {
+            if (!targetList.Contains(option))
+            {
+                targetList.Add(option);
+            }
+        }
+        else
+        {
+            if (targetList.Contains(option))
+            {
+                targetList.Remove(option);
+            }
+        }
+    }
+}

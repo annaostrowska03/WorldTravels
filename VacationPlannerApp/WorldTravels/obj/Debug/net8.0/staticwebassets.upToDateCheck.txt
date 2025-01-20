@@ -1,0 +1,10 @@
+wwwroot\app.css
+wwwroot\background.svg
+wwwroot\background2.svg
+wwwroot\bootstrap\bootstrap.min.css
+wwwroot\bootstrap\bootstrap.min.css.map
+wwwroot\dest_icon.png
+wwwroot\destination_icon.svg
+wwwroot\destination_icon_black.svg
+wwwroot\js\maps.js
+wwwroot\no_flag.png

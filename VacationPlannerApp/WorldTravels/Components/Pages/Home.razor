@@ -1,0 +1,57 @@
+﻿@page "/"
+@inject WorldBackpacker.Services.LocationService LocationService
+@inject IJSRuntime JSRuntime
+@inject ILogger<Home> Logger
+@rendermode InteractiveServer
+
+<PageTitle>WorldTravels</PageTitle>
+
+<center><h1>Hello traveller!</h1></center>
+
+<center><h5> Welcome to the WorldTravels app, where you can get recommendations for your new travel destinations, based on your preferred budget, weather, activities, and regions! </h5></center>
+
+<center><h5>Here is a map of all the places we can recommend you 🌍</h5></center>
+
+<!-- Map container -->
+<div id="myMap" style="height: 800px; width: 100%;"></div>
+@if (locations.Count == 0)
+{
+    <center><h5>Loading map data, please wait...</h5></center>
+}
+<h5>Are you ready to explore new places and start planning your adventures? Go to the <a href="/Destinations">Recommendations</a> page and find your ideal vacation spot!</h5>
+
+@code {
+    private List<(float Latitude, float Longitude)> locations = new List<(float Latitude, float Longitude)>();
+    private bool isMapInitialized = false; // Flag to control map rendering
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            locations = await LocationService.GetCoordinates();
+            Logger.LogInformation($"{locations.Count} locations loaded."); // Log the count of locations
+        }
+        catch (Exception ex)
+        {
+            Logger.LogError($"Error in OnInitializedAsync: {ex.Message}"); // Log error
+        }
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (!isMapInitialized && locations.Count > 0)
+        {
+            try
+            {
+                var locationArray = locations.Select(location => new { location.Latitude, location.Longitude }).ToList();
+                await JSRuntime.InvokeVoidAsync("InitMap", locationArray); // Initialize map with locations
+                isMapInitialized = true; // Prevent further calls
+                Logger.LogInformation("Map initialized with locations.");
+            }
+            catch (Exception ex)
+            {
+                Logger.LogError($"Error in OnAfterRenderAsync: {ex.Message}"); // Log error
+            }
+        }
+    }
+}

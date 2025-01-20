@@ -1,0 +1,1374 @@
+{
+  "Version": 1,
+  "Hash": "wIjFvyPsowK+W5GsCcv8TAP08eZb+n6wNNeqYwiOGd0=",
+  "Source": "WorldBackpacker",
+  "BasePath": "_content/WorldBackpacker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WorldBackpacker\\wwwroot",
+      "Source": "WorldBackpacker",
+      "ContentRoot": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\",
+      "BasePath": "_content/WorldBackpacker",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Dell\\.nuget\\packages\\azuremapscontrol.components\\1.16.1\\staticwebassets\\azure-maps-control.js",
+      "SourceId": "AzureMapsControl.Components",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Dell\\.nuget\\packages\\azuremapscontrol.components\\1.16.1\\staticwebassets\\",
+      "BasePath": "_content/AzureMapsControl.Components",
+      "RelativePath": "azure-maps-control.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fggp7if0lx",
+      "Integrity": "j/4fgFdb2Yt91M+St0DKkQgc+vQiMuQ6+nKty6NMpro=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Dell\\.nuget\\packages\\azuremapscontrol.components\\1.16.1\\staticwebassets\\azure-maps-control.js"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\.nuget\\packages\\azuremapscontrol.components\\1.16.1\\staticwebassets\\azure-maps-control.min.js",
+      "SourceId": "AzureMapsControl.Components",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Dell\\.nuget\\packages\\azuremapscontrol.components\\1.16.1\\staticwebassets\\",
+      "BasePath": "_content/AzureMapsControl.Components",
+      "RelativePath": "azure-maps-control.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5c1tgpzxuq",
+      "Integrity": "+89LfPZykZnogkJuRplnDPFu2SKQkzob85D3rw2JdiA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Dell\\.nuget\\packages\\azuremapscontrol.components\\1.16.1\\staticwebassets\\azure-maps-control.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WorldBackpacker.styles.css",
+      "SourceId": "WorldBackpacker",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/WorldBackpacker",
+      "RelativePath": "WorldBackpacker#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "9n8x2a9jyo",
+      "Integrity": "+1ti9/s8jACBpOggJKEhwYK8uuofB464RGosnmMjU6A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WorldBackpacker.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WorldBackpacker.bundle.scp.css",
+      "SourceId": "WorldBackpacker",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/WorldBackpacker",
+      "RelativePath": "WorldBackpacker#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "9n8x2a9jyo",
+      "Integrity": "+1ti9/s8jACBpOggJKEhwYK8uuofB464RGosnmMjU6A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WorldBackpacker.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\app.css",
+      "SourceId": "WorldBackpacker",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\",
+      "BasePath": "_content/WorldBackpacker",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "da95v2qkru",
+      "Integrity": "u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\background.svg",
+      "SourceId": "WorldBackpacker",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\",
+      "BasePath": "_content/WorldBackpacker",
+      "RelativePath": "background#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kk11qwi3id",
+      "Integrity": "zIfAV2k1S3XzA7GLBDnU2+ZZaRvw1CGhpeqjQAT1LyU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\background2.svg",
+      "SourceId": "WorldBackpacker",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\",
+      "BasePath": "_content/WorldBackpacker",
+      "RelativePath": "background2#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jenthpp7ro",
+      "Integrity": "uyBKEbwsj9M+/gypNx6AD8lQFYrm3NREDmt/7WSrATI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background2.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "WorldBackpacker",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\",
+      "BasePath": "_content/WorldBackpacker",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "WorldBackpacker",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\",
+      "BasePath": "_content/WorldBackpacker",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\dest_icon.png",
+      "SourceId": "WorldBackpacker",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\",
+      "BasePath": "_content/WorldBackpacker",
+      "RelativePath": "dest_icon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f5l8pwfrau",
+      "Integrity": "EwZA0a6yuBZxUf6dLGrqj02hP5oESFo+1bqu6cuC2+I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dest_icon.png"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\destination_icon.svg",
+      "SourceId": "WorldBackpacker",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\",
+      "BasePath": "_content/WorldBackpacker",
+      "RelativePath": "destination_icon#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kbp8qik8h2",
+      "Integrity": "MFQIBrxNo1JORe1DQsyEeuhCNLkubs3IprnQLb/B+0M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\destination_icon.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\destination_icon_black.svg",
+      "SourceId": "WorldBackpacker",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\",
+      "BasePath": "_content/WorldBackpacker",
+      "RelativePath": "destination_icon_black#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "73zpxpmmbi",
+      "Integrity": "4yLijWhVl6B/37MhzZ878eMwc2FsrJWKU93m5bknxH4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\destination_icon_black.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\js\\maps.js",
+      "SourceId": "WorldBackpacker",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\",
+      "BasePath": "_content/WorldBackpacker",
+      "RelativePath": "js/maps#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "44rjldj3qx",
+      "Integrity": "/HYmx1YfHOLwB68p5BJMRY385gd+ewzjFQ6QTsRRX/Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\maps.js"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\no_flag.png",
+      "SourceId": "WorldBackpacker",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\",
+      "BasePath": "_content/WorldBackpacker",
+      "RelativePath": "no_flag#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dreu40fsgj",
+      "Integrity": "x+XGfAXL7yitwuXEVItaKqYjZZ+CXvLa5OKKh/0olSo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\no_flag.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "_content/AzureMapsControl.Components/azure-maps-control.js",
+      "AssetFile": "C:\\Users\\Dell\\.nuget\\packages\\azuremapscontrol.components\\1.16.1\\staticwebassets\\azure-maps-control.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65575"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j/4fgFdb2Yt91M+St0DKkQgc+vQiMuQ6+nKty6NMpro=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Jun 2024 13:00:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-j/4fgFdb2Yt91M+St0DKkQgc+vQiMuQ6+nKty6NMpro="
+        }
+      ]
+    },
+    {
+      "Route": "_content/AzureMapsControl.Components/azure-maps-control.min.js",
+      "AssetFile": "C:\\Users\\Dell\\.nuget\\packages\\azuremapscontrol.components\\1.16.1\\staticwebassets\\azure-maps-control.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+89LfPZykZnogkJuRplnDPFu2SKQkzob85D3rw2JdiA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Jun 2024 13:00:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+89LfPZykZnogkJuRplnDPFu2SKQkzob85D3rw2JdiA="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 00:57:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "app.da95v2qkru.css",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 00:57:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "da95v2qkru"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "background.kk11qwi3id.svg",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\background.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "208258"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zIfAV2k1S3XzA7GLBDnU2+ZZaRvw1CGhpeqjQAT1LyU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 05:23:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kk11qwi3id"
+        },
+        {
+          "Name": "label",
+          "Value": "background.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zIfAV2k1S3XzA7GLBDnU2+ZZaRvw1CGhpeqjQAT1LyU="
+        }
+      ]
+    },
+    {
+      "Route": "background.svg",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\background.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "208258"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zIfAV2k1S3XzA7GLBDnU2+ZZaRvw1CGhpeqjQAT1LyU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 05:23:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zIfAV2k1S3XzA7GLBDnU2+ZZaRvw1CGhpeqjQAT1LyU="
+        }
+      ]
+    },
+    {
+      "Route": "background2.jenthpp7ro.svg",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\background2.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uyBKEbwsj9M+/gypNx6AD8lQFYrm3NREDmt/7WSrATI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 06:24:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jenthpp7ro"
+        },
+        {
+          "Name": "label",
+          "Value": "background2.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uyBKEbwsj9M+/gypNx6AD8lQFYrm3NREDmt/7WSrATI="
+        }
+      ]
+    },
+    {
+      "Route": "background2.svg",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\background2.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uyBKEbwsj9M+/gypNx6AD8lQFYrm3NREDmt/7WSrATI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 06:24:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uyBKEbwsj9M+/gypNx6AD8lQFYrm3NREDmt/7WSrATI="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 00:57:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 00:57:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 00:57:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 00:57:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "dest_icon.f5l8pwfrau.png",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\dest_icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30938"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EwZA0a6yuBZxUf6dLGrqj02hP5oESFo+1bqu6cuC2+I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 02:14:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f5l8pwfrau"
+        },
+        {
+          "Name": "label",
+          "Value": "dest_icon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EwZA0a6yuBZxUf6dLGrqj02hP5oESFo+1bqu6cuC2+I="
+        }
+      ]
+    },
+    {
+      "Route": "dest_icon.png",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\dest_icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30938"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EwZA0a6yuBZxUf6dLGrqj02hP5oESFo+1bqu6cuC2+I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 02:14:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EwZA0a6yuBZxUf6dLGrqj02hP5oESFo+1bqu6cuC2+I="
+        }
+      ]
+    },
+    {
+      "Route": "destination_icon.kbp8qik8h2.svg",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\destination_icon.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "168858"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MFQIBrxNo1JORe1DQsyEeuhCNLkubs3IprnQLb/B+0M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 03:00:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kbp8qik8h2"
+        },
+        {
+          "Name": "label",
+          "Value": "destination_icon.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MFQIBrxNo1JORe1DQsyEeuhCNLkubs3IprnQLb/B+0M="
+        }
+      ]
+    },
+    {
+      "Route": "destination_icon.svg",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\destination_icon.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "168858"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MFQIBrxNo1JORe1DQsyEeuhCNLkubs3IprnQLb/B+0M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 03:00:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MFQIBrxNo1JORe1DQsyEeuhCNLkubs3IprnQLb/B+0M="
+        }
+      ]
+    },
+    {
+      "Route": "destination_icon_black.73zpxpmmbi.svg",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\destination_icon_black.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "169404"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4yLijWhVl6B/37MhzZ878eMwc2FsrJWKU93m5bknxH4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 02:57:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "73zpxpmmbi"
+        },
+        {
+          "Name": "label",
+          "Value": "destination_icon_black.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4yLijWhVl6B/37MhzZ878eMwc2FsrJWKU93m5bknxH4="
+        }
+      ]
+    },
+    {
+      "Route": "destination_icon_black.svg",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\destination_icon_black.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "169404"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4yLijWhVl6B/37MhzZ878eMwc2FsrJWKU93m5bknxH4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 02:57:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4yLijWhVl6B/37MhzZ878eMwc2FsrJWKU93m5bknxH4="
+        }
+      ]
+    },
+    {
+      "Route": "js/maps.44rjldj3qx.js",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\js\\maps.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "914"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/HYmx1YfHOLwB68p5BJMRY385gd+ewzjFQ6QTsRRX/Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 11:09:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "44rjldj3qx"
+        },
+        {
+          "Name": "label",
+          "Value": "js/maps.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/HYmx1YfHOLwB68p5BJMRY385gd+ewzjFQ6QTsRRX/Y="
+        }
+      ]
+    },
+    {
+      "Route": "js/maps.js",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\js\\maps.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "914"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/HYmx1YfHOLwB68p5BJMRY385gd+ewzjFQ6QTsRRX/Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 11:09:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/HYmx1YfHOLwB68p5BJMRY385gd+ewzjFQ6QTsRRX/Y="
+        }
+      ]
+    },
+    {
+      "Route": "no_flag.dreu40fsgj.png",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\no_flag.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5354"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x+XGfAXL7yitwuXEVItaKqYjZZ+CXvLa5OKKh/0olSo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 00:57:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dreu40fsgj"
+        },
+        {
+          "Name": "label",
+          "Value": "no_flag.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x+XGfAXL7yitwuXEVItaKqYjZZ+CXvLa5OKKh/0olSo="
+        }
+      ]
+    },
+    {
+      "Route": "no_flag.png",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\wwwroot\\no_flag.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5354"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x+XGfAXL7yitwuXEVItaKqYjZZ+CXvLa5OKKh/0olSo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 00:57:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x+XGfAXL7yitwuXEVItaKqYjZZ+CXvLa5OKKh/0olSo="
+        }
+      ]
+    },
+    {
+      "Route": "WorldBackpacker.9n8x2a9jyo.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WorldBackpacker.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7045"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+1ti9/s8jACBpOggJKEhwYK8uuofB464RGosnmMjU6A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 06:23:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9n8x2a9jyo"
+        },
+        {
+          "Name": "label",
+          "Value": "WorldBackpacker.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+1ti9/s8jACBpOggJKEhwYK8uuofB464RGosnmMjU6A="
+        }
+      ]
+    },
+    {
+      "Route": "WorldBackpacker.9n8x2a9jyo.styles.css",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WorldBackpacker.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7045"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+1ti9/s8jACBpOggJKEhwYK8uuofB464RGosnmMjU6A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 06:23:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9n8x2a9jyo"
+        },
+        {
+          "Name": "label",
+          "Value": "WorldBackpacker.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+1ti9/s8jACBpOggJKEhwYK8uuofB464RGosnmMjU6A="
+        }
+      ]
+    },
+    {
+      "Route": "WorldBackpacker.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WorldBackpacker.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7045"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+1ti9/s8jACBpOggJKEhwYK8uuofB464RGosnmMjU6A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 06:23:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+1ti9/s8jACBpOggJKEhwYK8uuofB464RGosnmMjU6A="
+        }
+      ]
+    },
+    {
+      "Route": "WorldBackpacker.styles.css",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\sem5\\app_finalfinal\\WorldBackpacker\\VacationPlannerApp\\WorldTravels\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WorldBackpacker.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7045"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+1ti9/s8jACBpOggJKEhwYK8uuofB464RGosnmMjU6A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 06:23:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+1ti9/s8jACBpOggJKEhwYK8uuofB464RGosnmMjU6A="
+        }
+      ]
+    }
+  ]
+}
