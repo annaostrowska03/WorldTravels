@@ -3,7 +3,7 @@
 
 link to the application: [worldtravels.azurewebsites.net](https://worldtravels.azurewebsites.net/)
 
-**World Backpacker** is a travel recommendation app that suggests destinations based on user preferences and displays them on an interactive map.
+### **World Backpacker** is a travel recommendation app that suggests destinations based on user preferences and displays them on an interactive map.
 
 ---
 
