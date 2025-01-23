@@ -5,7 +5,7 @@
         language: 'en-US',
         authOptions: {
             authType: 'subscriptionKey',
-            subscriptionKey: 'jrCM26tqrhhln8xikeII1I714ul64n4lKS4DUArwLBC5I5eOfNInJQQJ99ALACYeBjF6gdozAAAgAZMP43Rc'
+            subscriptionKey: 'abcdefghijklmnopqrst'
         }
     });
 
