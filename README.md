@@ -15,11 +15,11 @@ link to the application: [worldtravels.azurewebsites.net](https://worldtravels.a
 ---
 
 ## Technologies
-Frontend: Blazor WebAssembly
-Backend: .NET Core
-Database: Azure SQL
-Maps and weather data: Azure Maps
-Datasets: Kaggle
+- Frontend: Blazor WebAssembly
+- Backend: .NET Core
+- Database: Azure SQL
+- Maps and weather data: Azure Maps
+- Datasets: Kaggle
 
 ---
 
@@ -30,7 +30,3 @@ Datasets: Kaggle
 - VacationPlannerApp: application code
 - World Travels report: document describing the process of app development, sources and app features
 
----
-
-## VacationPlannerApp Structure
-WorldBackpacker │ ├── wwwroot/ │ ├── js/maps.js # Map integration │ └── app.css # Styles │ ├── Components/ │ ├── Layout/ # App layouts │ ├── Pages/ # Pages for recommendations │ ├── Data/ # Data models (e.g., Choice.cs, Weather.cs) ├── Services/ # Backend logic (e.g., RecommendationService.cs) └── appsettings.json # Configuration
