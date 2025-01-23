@@ -11,7 +11,7 @@ class Program
 {
     static async Task Main(string[] args)
     {
-        var connectionString = "Server=windows-ania\\MSSQLSERVER2;Database=vacation_cities;User Id=sa;Password=ania1111;";
+        var connectionString = "connectionString";
         var temperatureService = new TemperatureService(connectionString);
         await temperatureService.UpdateWeatherDataAsync();
         Console.WriteLine("Weather data update complete.");

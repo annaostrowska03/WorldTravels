@@ -13,7 +13,7 @@ using Newtonsoft.Json.Linq;
 
 public class TemperatureService
 {
-    private const string ApiKey = "jrCM26tqrhhln8xikeII1I714ul64n4lKS4DUArwLBC5I5eOfNInJQQJ99ALACYeBjF6gdozAAAgAZMP43Rc";
+    private const string ApiKey = "ApiKey";
     private const string ApiUrl = "https://atlas.microsoft.com/weather/historical/normals/daily/json?";
     private readonly string _connectionString;
     private List<Tuple<double, double>> monthWeather;
