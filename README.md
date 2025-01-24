@@ -13,7 +13,7 @@ link to the application: [worldtravels.azurewebsites.net](https://worldtravels.a
 
 
 ## Technologies
-- Frontend: Blazor WebAssembly
+- Frontend: Blazor Web App
 - Backend: .NET Core
 - Database: Azure SQL
 - Maps and weather data: Azure Maps
