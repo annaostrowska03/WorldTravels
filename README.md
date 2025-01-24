@@ -25,5 +25,5 @@ link to the application: [worldtravels.azurewebsites.net](https://worldtravels.a
 - DataCreationSQL: queries for creating additional data tables and providing additional or missing data (ex. activities)
 - GetTemperatureData: code for connecting to Azure Maps API and filling the data table with average temperatures in every week of every month in each location
 - VacationPlannerApp: application code
-- World Travels report: document describing the process of app development, sources and app features
+- World_Travels_report: document describing the process of app development, sources and app features
 
