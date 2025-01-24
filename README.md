@@ -27,3 +27,6 @@ link to the application: [worldtravels.azurewebsites.net](https://worldtravels.a
 - VacationPlannerApp: application code
 - World_Travels_report: document describing the process of app development, sources and app features
 
+## Architectute
+![architecture drawio](https://github.com/user-attachments/assets/7f7eb938-ddaf-45be-8aae-477b8c2f77e2)
+
