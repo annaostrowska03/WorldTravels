@@ -1,9 +1,9 @@
-# 🌍 World Backpacker: [worldtravels.azurewebsites.net](https://worldtravels.azurewebsites.net/)
+# 🌍 World Travels: [worldtravels.azurewebsites.net](https://worldtravels.azurewebsites.net/)
 **author**: Anna Ostrowska ([@annaostrowska03](https://github.com/annaostrowska03))
 
 link to the application: [worldtravels.azurewebsites.net](https://worldtravels.azurewebsites.net/)
 
-### **World Backpacker** is a travel recommendation app that suggests travel destinations based on user preferences and displays them on an interactive map.
+### **World Travels** is a travel recommendation app that suggests travel destinations based on user preferences and displays them on an interactive map.
 
 
 ## Features
